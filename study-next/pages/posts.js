@@ -26,3 +26,7 @@ const Posts = () => {
 };
 
 export default Posts;
+
+
+
+// npm install -g json-server - пакет для мок сервера
